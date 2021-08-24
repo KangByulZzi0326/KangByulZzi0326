@@ -11,4 +11,4 @@
 - Rust
 - Go
 
-<a href='https://ko-fi.com/G2G05XCEW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![ko-fi](https://cdn.discordapp.com/attachments/879700553674924073/879731773146296330/91_20210823211330.png)](https://ko-fi.com/G2G05XCEW)
