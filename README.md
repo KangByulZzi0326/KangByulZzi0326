@@ -11,4 +11,4 @@
 - Rust
 - Go
 
-[![ko-fi](https://cdn.discordapp.com/attachments/879700553674924073/879731773146296330/91_20210823211330.png)](https://ko-fi.com/G2G05XCEW)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G05XCEW)
