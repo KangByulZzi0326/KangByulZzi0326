@@ -13,4 +13,4 @@
 - Javascript
 - Java & JDA
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G05XCEW)
+[![PAYPAL](https://paypal.me/kgw608)
