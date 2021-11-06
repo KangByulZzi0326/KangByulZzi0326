@@ -13,4 +13,4 @@
 - Javascript
 - Java & JDA
 
-[![PAYPAL](https://paypal.me/kgw608)
+[페이팔](https://paypal.me/kgw608).
